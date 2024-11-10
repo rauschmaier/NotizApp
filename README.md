@@ -35,11 +35,7 @@ Erstellen Sie ein UML-Komponentendiagramm, das die Architektur des digitalen Not
 Beschreiben Sie, welche weiteren Überlegungen und Diagramme nötigen sind, bevor mit der Implementierung begonnen werden kann
 
 ### 5. **Werkzeuge zur Erstellung der UML-Diagramme**
-Verwenden Sie ein geeignetes Tool, um die UML-Diagramme zu erstellen. Empfohlene Tools sind:
-- **Lucidchart** (Online)
-- **draw.io** (Online)
-- **StarUML** (Desktop)
-- **Visual Paradigm** (Online oder Desktop)
+Verwenden Sie ein geeignetes Tool, um die UML-Diagramme zu erstellen (z.B. draw.io)
 
 ### 6. **Zusätzliche Anforderungen**
 - Die Diagramme sollten klar und strukturiert sein.
